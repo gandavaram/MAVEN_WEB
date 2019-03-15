@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-18-223-113-189.us-east-2.compute.amazonaws.com:8081/repository/Jenkins_ReleagesMavenProject/</url>
+	      <url>http://ec2-18-222-188-191.us-east-2.compute.amazonaws.com:8081/repository/Jenkins_ReleagesMavenProject/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-18-223-113-189.us-east-2.compute.amazonaws.com:8081/repository/Jenkins_SnapshotMavenProject/</url>
+	      <url>http://ec2-18-222-188-191.us-east-2.compute.amazonaws.com:8081/repository/Jenkins_SnapshotMavenProject/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
